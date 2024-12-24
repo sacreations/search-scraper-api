@@ -16,8 +16,8 @@ This project provides a Flask API to scrape search results from Google and Bing.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/python-scraper-api.git
-    cd python-scraper-api
+    git clone https://github.com/sacreations/search-scraper-api.git
+    cd search-scraper-api
     ```
 
 2. Create a `.env` file by copying the `.env.example` file and updating the values:
